@@ -12,7 +12,7 @@ public class KillController {
 	}
 	
 /*Método chamado "os", identifica e retorna o sistema operacional
-	para os métodos "ip" e "ping". (método privado)*/
+	para os métodos "listaProcessos", "mataPid" e "mataNome. (método privado)*/
 	private String os() {
 		
 /*operação que identifica o nome do SO com retorno*/		
