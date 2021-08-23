@@ -111,6 +111,7 @@ public class KillController {
 	} catch (IOException e) {
 		e.printStackTrace();
 	}
+		System.exit(0);
 		
 	}
 	
@@ -152,8 +153,9 @@ public class KillController {
 	} catch (IOException e) {
 		e.printStackTrace();
 	}
-		
+		System.exit(0);
 	}
+	
 }
 
 
